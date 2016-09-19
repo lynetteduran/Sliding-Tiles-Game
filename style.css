@@ -1,0 +1,42 @@
+body { 
+	background-color: #00CFC1;
+	color: #FFBE0B;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+#gameplay {
+	width: 100%;
+	height: 100%;
+	background-color: #00CFC1;
+	margin: 0;
+}
+#headline {
+	background-color: #FD5200;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font: 60px bold;
+	border: 10px solid #FFBE0B;
+	border-radius: 25px;
+	text-align: center;
+	margin: 40px 140px 40px 170px;
+	visibility: visible;
+}
+.tile {
+	position: absolute;
+	width: 175px;
+	height: 175px;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font: 75px bold;
+	vertical-align: center;
+	text-align: center;
+	border: 10px solid #FFBE0B;
+	border-radius: 25px;
+	margin: 150px;
+}
+
+.gameTile {
+	background-color: #FD5200;
+}
+
+.emptyTile {
+	background-color: #FFBE0B;
+
+}
