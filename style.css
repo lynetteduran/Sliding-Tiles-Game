@@ -1,21 +1,21 @@
 body { 
-	background-color: #00CFC1;
-	color: #FFBE0B;
+	background-color: #2F1847;
+	color: #F9B3D1;
 	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
 #gameplay {
 	width: 100%;
 	height: 100%;
-	background-color: #00CFC1;
+	background-color: #2F1847;
 	margin: 0;
 }
 #headline {
 	width: 550px;
 	height: 75px;
-	background-color: #FD5200;
+	background-color: #C62E65;
 	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	font: 45px bold;
-	border: 10px solid #FFBE0B;
+	border: 10px solid #F9B3D1;
 	border-radius: 25px;
 	text-align: center;
 	vertical-align: center;
@@ -30,16 +30,16 @@ body {
 	font: 75px bold;
 	vertical-align: center;
 	text-align: center;
-	border: 10px solid #FFBE0B;
+	border: 10px solid #F9B3D1;
 	border-radius: 25px;
 	margin: 150px;
 }
 
 .gameTile {
-	background-color: #FD5200;
+	background-color: #C62E65;
 }
 
 .emptyTile {
-	background-color: #FFBE0B;
+	background-color: #F9B3D1;
 
 }
