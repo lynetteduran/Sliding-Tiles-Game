@@ -10,13 +10,16 @@ body {
 	margin: 0;
 }
 #headline {
+	width: 550px;
+	height: 75px;
 	background-color: #FD5200;
 	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
-	font: 60px bold;
+	font: 45px bold;
 	border: 10px solid #FFBE0B;
 	border-radius: 25px;
 	text-align: center;
-	margin: 40px 140px 40px 170px;
+	vertical-align: center;
+	margin: 40px 150px;
 	visibility: visible;
 }
 .tile {

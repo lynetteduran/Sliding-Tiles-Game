@@ -70,7 +70,7 @@ window.onload = function makeGame(e) {
           tile4, tile5, tile6, tile7, tile8];
  emptyTile = tile0;
  updateBoard(); 
- document.getElementById('headline').innerHTML = "Tile Slides"; 
+ document.getElementById('headline').innerHTML = "Go ahead, slide those tiles!"; 
  document.getElementById('gameplay').addEventListener('click', function(e) { 
     document.getElementById('headline').style.visibility = "hidden"; 
   }); 
